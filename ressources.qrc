@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="icon.svg">docs_projet/bar-chart.svg</file>
+        <file alias="watermark.png">docs_projet/watermark.png</file>
+    </qresource>
+</RCC>
